@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+/* .container{
+    margin-top: auto;
+    margin: 20px;
+} */
+.admin img{
+    width: 200px;
+    height: 200px;
+}
+.b1{
+    background-color: #6D688B;
+    text-align: center;
+    width: 200px;
+    border-radius: 30px;
+    color: black;
+    height: 100px;
+    font-size: 20px;
+}
