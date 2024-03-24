@@ -56,7 +56,7 @@
         <br>
         <!-- Copyright -->
         <div class="d-flex justify-content-center p-5" style="background-color: grey;">
-          © 2024 Copyright:
+          © 2024 COPYRIGHT:
         </div>
         <!-- Copyright -->
       </footer>
